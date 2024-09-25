@@ -1,8 +1,4 @@
-Here's a short description for the README of your GitHub project based on the mentioned Power BI sales dashboard:
-
----
-
-# Store Sales Dashboard in Power BI
+# Smart Store Sales Dashboard in Power BI
 
 This project demonstrates how to create a **Store Sales Dashboard** in Power BI with visual insights such as sales by category, subcategory, total profit, and best-performing regions or states.
 
@@ -32,6 +28,3 @@ I have included:
 - **Images**: A preview of the dashboard and its components.
 - **Video**: A short walkthrough of how the dashboard was built and key features highlighted.
 
----
-
-Feel free to modify this as needed!
